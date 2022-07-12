@@ -1,8 +1,8 @@
 {
     "enabled": false,
-    "coin": "litecoin.json",
+    "coin": "dogecoin.json",
 
-    "address": "n4jSe18kZMCdGcZqaYprShXW6EH1wivUK1",
+    "address": "DNyiwtusLQX3tWffv4GAo1TbkpXpS9xnCe",
 
     "rewardRecipients": {
         "n37vuNFkXfk15uFnGoVyHZ6PYQxppD3QqK": 1.5,
